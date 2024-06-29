@@ -66,21 +66,21 @@ hr {
     text-align: right;
 }
 
-footer a {
+footer a, footer a:visited {
     color: black;
 }
 
-footer a:visited {
+/* footer a:visited {
     color: black;
-}
+} */
 
-footer a:hover {
+footer a:hover, footer a:active {
     color: brown;
 }
 
-footer a:active {
+/* footer a:active {
     color: brown;
-}
+} */
 
 .address {
     margin-bottom: 0px;
